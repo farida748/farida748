@@ -1,85 +1,68 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:d58a96,50:b986a5,100:7c72a9&height=230&section=header&text=Farida%20Saad&fontSize=40&fontColor=111111&fontAlignY=38&animation=fadeIn"
-/>
+<h1 align="center">Hi 👋, I'm Farida Saad</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;Building+Scalable+Backend+Solutions" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Farida saad</h1>
+<p align="center">
+  <img src="assets/backend-animation.gif" width="100%" />
+</p>
 
-<h3 align="center">
-Backend Developer | .NET Developer
-</h3>
-
----
+<table>
+<tr>
+<td width="60%">
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in Backend Development
-- 🌱 Currently learning ASP.NET Core and MVC
-- 🗄️ Working with SQL Server and Entity Framework
-- 🎨 I also have experience as a Graphic Designer
+- 💻 Backend Developer focused on .NET
+- 🌱 Currently learning ASP.NET Core
+- 🧠 Interested in Clean Architecture and REST APIs
+- 🎨 Graphic Designer with 6+ years of experience
 
----
+</td>
 
-## 🧠 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,c++,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
-
-- ASP.NET Core
-- ASP.NET MVC
-- Entity Framework Core
-- LINQ
-- REST APIs
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
-</p>
-
----
-
-## 🚀 Highlighted Projects
-
-### 🏋️ Gym Management System
-
-ASP.NET Core MVC application for managing gym members, plans and subscriptions.
-
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- Repository Pattern
-
-
-
-
-
----
-
-## 📊 GitHub Statistics
+<td width="40%">
+<img src="assets/coding-animation.gif" width="100%" />
+</td>
+</tr>
+</table>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,git,github,visualstudio,vscode,postman" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farida748&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farida748&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farida748&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farida748/farida748/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<h2 align="center">📫 Connect With Me</h2>
 
-## 📫 Contact Me
+<p align="center">
+  <a href="www.linkedin.com/in/farida-saad-17b5162b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-- LinkedIn: https://www.linkedin.com/in/farida-saad-17b5162b1/
-- Email: saadf1594@gmail.com
+  <a href="mailto:saadf1594@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
