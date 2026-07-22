@@ -24,22 +24,24 @@
 ---
 
 ## 👩‍💻 About Me
-
 <img
   align="right"
-  width="300"
-  alt="Coding Animation"
+  width="280"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding Animation"
 />
 
-- 🎓 Computer Science Student
-- 💻 Backend Developer focused on **.NET**
-- 🌱 Currently learning **ASP.NET Core**
-- 🧠 Interested in **Clean Architecture** and **REST APIs**
-- 🗄️ Working with **SQL Server** and **Entity Framework Core**
-
+- 🎓 Computer Science student at **Menoufia University**
+- 💻 .NET Backend Developer focused on **ASP.NET Core**
+- 🔗 Building **RESTful APIs** with **Entity Framework Core**
+- 🗄️ Working with **SQL Server** and **Repository Pattern**
+- 🌱 Currently training in **.NET Development at ITI**
+- 🚀 Interested in **Clean Architecture** and scalable backend systems
 
 <br clear="right"/>
+
+
+
 
 ---
 
