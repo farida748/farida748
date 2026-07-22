@@ -37,7 +37,7 @@
 - 🌱 Currently learning **ASP.NET Core**
 - 🧠 Interested in **Clean Architecture** and **REST APIs**
 - 🗄️ Working with **SQL Server** and **Entity Framework Core**
-- 🎨 Graphic Designer with **6+ years of experience**
+
 
 <br clear="right"/>
 
@@ -132,7 +132,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/farida748/farida748/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/farida748/FaridaSaad/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
   />
 </p>
