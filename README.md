@@ -98,7 +98,7 @@ AI-powered web app that lets users upload a PDF and ask questions about its cont
   <a href="mailto:saadf1594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- <a href="https://raw.githubusercontent.com/farida748/farida748/main/Farida_Saad_CV.pdf">
+ <a href="https://farida748.github.io/farida748/Farida_Saad_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-6C3FC5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 </p>
