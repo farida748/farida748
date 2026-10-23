@@ -67,7 +67,7 @@ ASP.NET Core MVC application for managing gym members, health records, and membe
 
 `ASP.NET Core MVC` `EF Core` `SQL Server` `LINQ` `Repository Pattern`
 
-### 🤖 [PDF Chatbot](PDF_CHATBOT_REPO_LINK)
+### 🤖 [PDF Chatbot](https://github.com/farida748/PdfChatbot)
 AI-powered web app that lets users upload a PDF and ask questions about its content.
 
 - Integrated the **Gemini API** to generate answers grounded in the uploaded document
@@ -98,7 +98,7 @@ AI-powered web app that lets users upload a PDF and ask questions about its cont
   <a href="mailto:saadf1594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- <a href="https://github.com/farida748/farida748/blob/main/Farida_Saad_CV.pdf">
+ <a href="https://raw.githubusercontent.com/farida748/farida748/main/Farida_Saad_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-6C3FC5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 </p>
